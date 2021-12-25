@@ -1,0 +1,4 @@
+---Học git cơ bản---
+https://www.youtube.com/watch?v=cC7vg8lWneo&t=1009s
+---MQTT---
+https://www.hivemq.com/mqtt-essentials/
