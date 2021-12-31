@@ -4,3 +4,5 @@ https://www.youtube.com/watch?v=cC7vg8lWneo&t=1009s
 https://www.youtube.com/playlist?list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd
 https://www.hivemq.com/mqtt-essentials/
 https://gist.github.com/cwschroeder/7b5117dca561c01def041e7d4c6d2771#file-mqtt-client-L78
+---Xamarin---
+Xamarin View: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/views
